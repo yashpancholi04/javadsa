@@ -28,3 +28,27 @@ bin/
 
 ### Mac OS ###
 .DS_Store
+
+
+# IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+
+# Compiled files
+out/
+*.class
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Maven / Gradle (if used later)
+target/
+build/
+
+# VS Code (optional)
+.vscode/
