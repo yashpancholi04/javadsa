@@ -1,4 +1,4 @@
 package Introductionjava;
 
-public class yashchutya {
+public class yashyy {
 }
